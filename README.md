@@ -17,9 +17,10 @@ DirectX: Version 10
 Disk space: 512 MB
 
 ## 💿[Downlad WallPaperEngine for partners](https://mega.nz/file/s552XRrB#d8Tw24RU48eC41dcubzol9X5i_lM0d-Mkk3fTVenNBI)
-Instruction for using new version of WallpaperEnginePrivate.
-1. open the application
-2. Enter your unique code
-3. customize the application for yourself, choose the wallpaper, learn the features
+Instructions for registering in the beta test:
+1. Open the application
+2. Register in application.
+3. Send me your login, which was specified at registration.
+4.I activate your account and you can use the program.
 
 ![alt-текст](https://sun7-6.userapi.com/c854320/v854320221/1cbff7/Uungi96Uyig.jpg)
